@@ -35,7 +35,7 @@ A food delivery web app built with **React** and **Firebase**. It includes featu
 ### 2. [Student Management App](#) 🎓
 A student management system with features for adding, editing, and deleting student records. Built with **React** and **Node.js**.
 
-### 3. [3D Tshirt Customizer](#) 🖼️
+### 3. [3D Tshirt Customizer](https://github.com/AimeKelvin/3D_Tshirt_customizer) 🖼️
 A 3D store for user-customized T-shirts using **react**, **three.js**, **react-three-fiber**, **tailwind**, **node**
 
 ## 👀 Open to Work!
