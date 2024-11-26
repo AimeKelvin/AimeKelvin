@@ -29,13 +29,16 @@ I'm a passionate **Web Developer**, **Backend Enthusiast**, and **3D Beginner** 
 
 ## 🌟 Projects
 
-### 1. [Food Delivery App](#) 🍔
-A food delivery web app built with **React** and **Firebase**. It includes features like real-time order tracking and payment integration.
+### 1. [HealthCare Management App](https://github.com/AimeKelvin) 🧑🏽‍⚕️
+A healthcare management platform to allow cabinets to manage  their patient appointements. Built with **Nextsjs**, **Clerk**, **Shadcn**
 
-### 2. [Student Management App](#) 🎓
-A student management system with features for adding, editing, and deleting student records. Built with **React** and **Node.js**.
+### 2. [Blog App](https://github.com/AimeKelvin) 📱
+A social media app where users can post, like and comment other user's posts. Built with **React** and **Node.js**, **Mysql**
 
-### 3. [3D Tshirt Customizer](https://github.com/AimeKelvin/3D_Tshirt_customizer) 🖼️
+### 3. [3D Tshirt Customizer](https://github.com/AimeKelvin/3D_Tshirt_customizer) 👕
+A 3D store for user-customized T-shirts using **react**, **three.js**, **react-three-fiber**, **tailwind**, **node**
+
+### 3. [Inventory Management Platform](https://github.com/AimeKelvin) 📊
 A 3D store for user-customized T-shirts using **react**, **three.js**, **react-three-fiber**, **tailwind**, **node**
 
 ## 👀 Open to Work!
@@ -45,5 +48,6 @@ I'm currently looking for exciting opportunities in **Web Development**, especia
 - Email: [kellykelvinaime](mailto:your.kellykelvinaime@gmail.com)
 - LinkedIn: [linkedin.com/in/AimeKelvin](https://linkedin.com/in/Aimekelvin)
 - Instagram: [@Shimmw.a](https://instagram.com/shimmw.a)
+-Phone : +250 796105514
 
 Feel free to check out my repositories, and let's connect!
