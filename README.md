@@ -7,7 +7,7 @@ I'm a passionate **Web Developer**, **Backend Enthusiast**, and **3D Beginner** 
 - 🛠️ **Backend Enthusiast**: I'm exploring the vast world of backend development, particularly with technologies like **Express.js** and **Django**.
 - 🌐 **UI/UX Design**: I have a keen interest in creating user-friendly and visually appealing web designs with a focus on **user experience**.
 - 🎮 **3D Beginner**: I'm also toying around with **Three.js** to bring interactive 3D elements to the web.
-- 🎓 **Student**: Currently learning full-stack development while working on personal projects to build my skills.
+- 🎓 **Student**: Currently learning full-stack development while working on personal projects to build my skills. **Student at SOS  Technical Highschool*.*
 
 ## 🚀 Skills & Technologies
 
@@ -16,16 +16,16 @@ I'm a passionate **Web Developer**, **Backend Enthusiast**, and **3D Beginner** 
 - **Three.js** for 3D web development
 
 ### Backend:
-- **Node.js** | **Express.js** | **MongoDB** | **PostgreSQL**
+- **Node.js** | **Express.js** | **MongoDB** | **MySQL**
 
 ### Tools & Frameworks:
 - **Git & GitHub** | **Docker** | **Postman** | **VS Code**
-- **Firebase** | **GraphQL** | **REST APIs**
+- **REST APIs**
 
 ## 🌱 Currently Learning
 - **Backend Technologies**: Diving deeper into **Node.js** and **Express.js** for building robust backend systems.
 - **3D Development**: Experimenting with **Three.js** to create interactive 3D web apps.
-- **Machine Learning**: Starting to learn the basics of **Python** and **AI/ML** development.
+- **Java Programming Language**: Starting to learn the basics of **JAVA**.
 
 ## 🌟 Projects
 
@@ -45,9 +45,9 @@ A 3D store for user-customized T-shirts using **react**, **three.js**, **react-t
 I'm currently looking for exciting opportunities in **Web Development**, especially in the **backend** domain. If you're working on a cool project or know of any opportunities, feel free to reach out!
 
 ## 📫 How to Reach Me
-- Email: [kellykelvinaime](mailto:your.kellykelvinaime@gmail.com)
-- LinkedIn: [linkedin.com/in/AimeKelvin](https://linkedin.com/in/Aimekelvin)
+- Email: [Aime Kelvin](mailto:your.kellykelvinaime@gmail.com)
+- LinkedIn: [Shimwa Aime Kelvin](https://linkedin.com/in/Aimekelvin)
 - Instagram: [@Shimmw.a](https://instagram.com/shimmw.a)
--Phone : +250 796105514
+- Phone : +250 796105514
 
 Feel free to check out my repositories, and let's connect!
