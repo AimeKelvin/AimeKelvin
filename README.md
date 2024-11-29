@@ -49,5 +49,6 @@ I'm currently looking for exciting opportunities in **Web Development**, especia
 - LinkedIn: [Shimwa Aime Kelvin](https://linkedin.com/in/Aimekelvin)
 - Instagram: [@Shimmw.a](https://instagram.com/shimmw.a)
 - Phone : +250 796105514
+- website: [Shimwa.me](https://shimwa.me)
 
 Feel free to check out my repositories, and let's connect!
