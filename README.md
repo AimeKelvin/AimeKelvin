@@ -27,21 +27,7 @@ I'm a passionate **Web Developer**, **Backend Enthusiast**, and **3D Beginner** 
 - **3D Development**: Experimenting with **Three.js** to create interactive 3D web apps.
 - **Java Programming Language**: Starting to learn the basics of **JAVA**.
 
-## 🌟 Projects
-
-### 1. [HealthCare Management App](https://github.com/AimeKelvin) 🧑🏽‍⚕️
-A healthcare management platform to allow cabinets to manage  their patient appointements. Built with **Nextsjs**, **Clerk**, **Shadcn**
-
-### 2. [Blog App](https://github.com/AimeKelvin) 📱
-A social media app where users can post, like and comment other user's posts. Built with **React** and **Node.js**, **Mysql**
-
-### 3. [3D Tshirt Customizer](https://github.com/AimeKelvin/3D_Tshirt_customizer) 👕
-A 3D store for user-customized T-shirts using **react**, **three.js**, **react-three-fiber**, **tailwind**, **node**
-
-### 3. [Inventory Management Platform](https://github.com/AimeKelvin) 📊
-A 3D store for user-customized T-shirts using **react**, **three.js**, **react-three-fiber**, **tailwind**, **node**
-
-## 👀 Open to Work!
+## 👀 Open to Work mostly for internships to help me grow!
 I'm currently looking for exciting opportunities in **Web Development**, especially in the **backend** domain. If you're working on a cool project or know of any opportunities, feel free to reach out!
 
 ## 📫 How to Reach Me
