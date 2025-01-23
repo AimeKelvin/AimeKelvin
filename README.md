@@ -37,8 +37,8 @@ I'm a passionate **Web Developer**, **Backend Enthusiast**, and **3D Developer**
 
 ## 📊 GitHub Stats
 
-![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvinaime&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinaime&layout=compact&theme=radical)
+![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimekelvin&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aimekelvin&layout=compact&theme=radical)
 
 ---
 
