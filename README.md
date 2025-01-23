@@ -1,40 +1,57 @@
 # 👋 Hi there, I'm Kelvin!
 
-I'm a passionate **Web Developer**, **Backend Enthusiast**, and **3D Beginner** currently learning and growing in the exciting world of development. Always open to work and looking for opportunities to collaborate and contribute to projects that challenge me and help me grow.
+I'm a passionate **Web Developer**, **Backend Enthusiast**, and **3D Developer**. I'm dedicated to continuously learning and growing in the ever-evolving world of technology. Open to work and eager to collaborate on projects that challenge me and push the boundaries of my skills.
+
+---
 
 ## 💻 About Me
-- 🔥 **Web Developer**: I specialize in building modern web applications using **React** and **Node.js**.
-- 🛠️ **Backend Enthusiast**: I'm exploring the vast world of backend development, particularly with technologies like **Express.js** and **Django**.
-- 🌐 **UI/UX Design**: I have a keen interest in creating user-friendly and visually appealing web designs with a focus on **user experience**.
-- 🎮 **3D Beginner**: I'm also toying around with **Three.js** to bring interactive 3D elements to the web.
-- 🎓 **Student**: Currently learning full-stack development while working on personal projects to build my skills. **Student at SOS  Technical Highschool*.*
+- 🔥 **Web Developer**: I specialize in building modern, scalable web applications using **React** and **Next.js**, ensuring seamless user experiences.
+- 🛠️ **Backend Enthusiast**: I enjoy designing and developing robust backend systems with technologies like **Node.js**, **Express.js**, **PHP**, and **Django**.
+- 🌐 **UI/UX Design**: I focus on crafting visually appealing and user-friendly interfaces, prioritizing exceptional **user experience**.
+- 🎮 **3D Developer**: I explore the exciting world of interactive 3D web development with **Three.js**.
+- 🎓 **Student**: Currently expanding my expertise in full-stack development while tackling personal projects. **Student at SOS Technical Highschool**.
+
+---
 
 ## 🚀 Skills & Technologies
 
 ### Frontend:
-- **React** | **React Native** | **Tailwind CSS** | **HTML5** | **CSS3**
+- **React** | **Next.js** | **React Native** | **Tailwind CSS** | **HTML5** | **CSS3**
 - **Three.js** for 3D web development
 
 ### Backend:
-- **Node.js** | **Express.js** | **MongoDB** | **MySQL**
+- **Node.js** | **Express.js** | **PHP** | **MongoDB** | **MySQL**
 
 ### Tools & Frameworks:
 - **Git & GitHub** | **Docker** | **Postman** | **VS Code**
-- **REST APIs**
+- **REST APIs** | **API Integration**
+
+---
 
 ## 🌱 Currently Learning
-- **Backend Technologies**: Diving deeper into **Node.js** and **Express.js** for building robust backend systems.
-- **3D Development**: Experimenting with **Three.js** to create interactive 3D web apps.
-- **Java Programming Language**: Starting to learn the basics of **JAVA**.
+- **Java Programming Language**: 🌟 **Actively focusing on learning Java!** From the fundamentals to advanced concepts, I'm delving into this powerful language to enhance my backend development skills.
+- **Backend Technologies**: Deepening my knowledge of **Node.js**, **Express.js**, and **PHP** for creating scalable server-side applications.
+- **3D Development**: Experimenting with **Three.js** to create immersive, interactive 3D web applications.
 
-## 👀 Open to Work mostly for internships to help me grow!
-I'm currently looking for exciting opportunities in **Web Development**, especially in the **backend** domain. If you're working on a cool project or know of any opportunities, feel free to reach out!
+---
+
+## 📊 GitHub Stats
+
+![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvinaime&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinaime&layout=compact&theme=radical)
+
+---
+
+## 👀 Open to Work
+I'm actively seeking exciting opportunities in **Web Development**, particularly in **Backend Development**. Internships and collaborations that challenge me to learn and grow are most welcome. If you're working on something inspiring, let's connect!
+
+---
 
 ## 📫 How to Reach Me
-- Email: [Aime Kelvin](mailto:your.kellykelvinaime@gmail.com)
-- LinkedIn: [Shimwa Aime Kelvin](https://linkedin.com/in/Aimekelvin)
-- Instagram: [@Shimmw.a](https://instagram.com/shimmw.a)
-- Phone : +250 796105514
-- website: [Shimwa.me](https://shimwa.me)
+- **Email**: [Aime Kelvin](mailto:your.kellykelvinaime@gmail.com)
+- **LinkedIn**: [Shimwa Aime Kelvin](https://linkedin.com/in/Aimekelvin)
+- **Instagram**: [@Shimmw.a](https://instagram.com/shimmw.a)
+- **Phone**: +250 796105514
+- **Website**: [Shimwa.me](https://shimwa.me)
 
-Feel free to check out my repositories, and let's connect!
+Feel free to explore my repositories, and let's collaborate!
