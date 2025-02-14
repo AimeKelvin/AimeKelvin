@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Kelvin!
+# 👋 Hi there, I'm [Kelvin](https://shimwa.me)!
 
 I'm a passionate **Web Developer**, **Backend Enthusiast**, and **3D Developer**. I'm dedicated to continuously learning and growing in the ever-evolving world of technology. Open to work and eager to collaborate on projects that challenge me and push the boundaries of my skills.
 
