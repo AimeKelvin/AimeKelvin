@@ -10,7 +10,7 @@ I'm a passionate **Web Developer**, **Backend Enthusiast**, and **3D Developer**
 - 🛠️ **Backend Enthusiast**: I enjoy designing and developing robust backend systems with technologies like **Node.js**, **Express.js**, **PHP**, and **Django**.
 - 🌐 **UI/UX Design**: I focus on crafting visually appealing and user-friendly interfaces, prioritizing exceptional **user experience**.
 - 🎮 **3D Developer**: I explore the exciting world of interactive 3D web development with **Three.js**.
-- 🎓 **Student**: Currently expanding my expertise in full-stack development while tackling personal projects. **Student at SOS Technical Highschool**.
+- 🎓 **Student**: Currently expanding my expertise in full-stack development while tackling personal projects, learning new languaeges. **Student at SOS Technical Highschool**.
 
 ---
 
