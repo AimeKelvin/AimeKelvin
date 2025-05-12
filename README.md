@@ -50,7 +50,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/aimekelvin" target="_blank"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg](https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=FFFFFF)" width="32" height="32" alt="GitHub" /></a>
+  <a href="https://github.com/aimekelvin" target="_blank"><img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=FFFFFF" width="32" height="32" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/aimekelvin" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/shimmw.a" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
 </p>
