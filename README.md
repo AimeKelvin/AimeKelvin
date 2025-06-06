@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Shimwa Aime Kelvin 👋<br><br>I’m a software developer from Kigali, Rwanda 🇷🇼<br>I build apps using JavaScript, TypeScript, C++, Java, PHP and Node.js 💻<br>Some of my projects are LabSimu (a virtual reality education platform), a Citizen Engagement System 🏛️, and my own version control tool 🔧<br>Right now, I’m learning more about C++ and full-stack Java/Spring Boot ☕️🚀
+Hi, I’m Shimwa Aime Kelvin 👋<br><br>I’m a UI/UX Designer and software developer from Kigali, Rwanda 🇷🇼<br>I build apps using Figma, JavaScript, TypeScript, C++, Java, PHP and Node.js 💻<br>Some of my projects are LabSimu (a virtual reality education platform), a Citizen Engagement System 🏛️, and my own version control tool 🔧<br>Right now, I’m learning more about C++ and full-stack Java/Spring Boot ☕️🚀
 
 
 ## 🌐 Socials:
