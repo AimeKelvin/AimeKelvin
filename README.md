@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I’m Shimwa Aime Kelvin 👋<br><br>I’m a UI/UX Designer and software developer from Kigali, Rwanda 🇷🇼<br>I build apps using Figma, JavaScript, TypeScript, C++, Java, PHP and Node.js 💻<br>Some of my projects are LabSimu (a virtual reality education platform), a Citizen Engagement System 🏛️, and my own version control tool 🔧<br>Right now, I’m learning more about C++ and full-stack Java/Spring Boot ☕️🚀
 
-## Phone Number: 0796105514
+## Call me : +250 796 105 514
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shimmw.a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aimekelvin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shimwa.aime.kelvin@gmail.com) 
