@@ -1,12 +1,6 @@
-# 💫 About Me:
-Hi, I’m **Shimwa Aime Kelvin** 👋<br><br>
+# 💫 Hi, I’m **Shimwa Aime Kelvin** 👋
 I’m a **Frontend Engineer** and **UI/UX Designer** from Kigali, Rwanda 🇷🇼<br>
 I specialize in building **modern, responsive, and high-performance web and mobile applications** using **React, Next.js, React Native, Expo, and TailwindCSS**. 💻<br><br>
-
-My core strengths are:<br>
-- **Frontend craftsmanship** → I turn complex ideas into beautiful, accessible, and user-friendly interfaces.<br>
-- **Cross-platform expertise** → I ship apps that work seamlessly on web and mobile.<br>
-- **UI/UX mindset** → I design with empathy, ensuring every feature feels natural for end-users.<br><br>
 
 I’ve worked on projects ranging from a **virtual education platform** and a **citizen engagement system** to **custom design systems** for scalable apps.<br>
 My mission: **build products that solve real problems with clean, efficient, and scalable code.**<br><br>
