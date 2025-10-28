@@ -2,7 +2,7 @@
 I’m a **Frontend Engineer** and **UI/UX Designer** from Kigali, Rwanda 🇷🇼<br>
 I specialize in building **modern, responsive, and high-performance web and mobile applications** using **React, Next.js, React Native, Expo, and TailwindCSS**. 💻<br><br>
 
-I’ve worked on projects ranging from a **virtual education platform** and a **citizen engagement system** to **custom design systems** for scalable apps.<br>
+I’ve worked on projects ranging from a **Restaurent menu creation and sharing platform** and a **citizen engagement system** to **Leads outreach tools** for scalable apps.<br>
 My mission: **build products that solve real problems with clean, efficient, and scalable code.**<br><br>
 
 📞 **Call me:** +250 796 105 514
