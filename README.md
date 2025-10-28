@@ -1,4 +1,4 @@
-# 💫 Hi, I’m **Shimwa Aime Kelvin** 👋
+# 💫 Hi, I’m **Kelvin** 👋
 I’m a **Frontend Engineer** and **UI/UX Designer** from Kigali, Rwanda 🇷🇼<br>
 I specialize in building **modern, responsive, and high-performance web and mobile applications** using **React, Next.js, React Native, Expo, and TailwindCSS**. 💻<br><br>
 
