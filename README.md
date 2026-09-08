@@ -16,10 +16,6 @@ Frontend-focused software developer from Rwanda, currently exploring full-stack 
 - Getting better at software engineering one bug at a time
 - Learning more about cloud and scalable systems
 
-### Find me
-
-[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL)
-
 ---
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
